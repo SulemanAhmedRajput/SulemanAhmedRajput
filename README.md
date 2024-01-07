@@ -26,8 +26,3 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Other Skills:</h3>
-<p align="left">
-  <a href="#" target="_blank" rel="noreferrer"> <img src="ICON_URL" alt="Skill Name" width="40" height="40"/> </a>
-  <!-- Add more skills with the same format -->
-</p>
